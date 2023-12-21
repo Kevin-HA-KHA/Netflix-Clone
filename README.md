@@ -4,7 +4,7 @@ A Netflix clone using TMDB's API. Made with React and NodeJS.
 
 ## Demo
 
-The app is available at : streaming-clone-6ad69.firebaseapp.com
+The app is available at : https://streaming-clone-6ad69.firebaseapp.com
 
 ## Installation
 
